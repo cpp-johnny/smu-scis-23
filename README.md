@@ -1,3 +1,5 @@
 # smu-scis-23
 
-`git clone https://github.com/smu-hack-dsc/snake-game.git`
+snake from SMU SCIS workshop
+
+run `git clone https://github.com/smu-hack-dsc/snake-game.git` and modify
